@@ -1,0 +1,199 @@
+{
+  "login": [
+    {
+      "id": 1,
+      "username": "cjunior@alcis.com.br",
+      "password": "Alcis123"
+    }
+  ],
+  "listproperties": [
+    {
+      "id": 1,
+      "name": "Alex Kidd"
+    },
+    {
+      "id": 2,
+      "name": "Bonanza Bros"
+    },
+    {
+      "id": 3,
+      "name": "Street Fighter 3"
+    },
+    {
+      "id": 4,
+      "name": "Mortal Kombat 3"
+    }
+  ],
+  "fullproperties": [
+    {
+      "id": 1,
+      "name": "Alex Kidd",
+      "machines": [
+        {
+          "id": 1,
+          "name": "1A",
+          "voltage": 220,
+          "current": 25,
+          "flowrate": 1000,
+          "status": "inactive",
+          "history": [
+            {
+              "id": 1,
+              "date": "01/08/2018",
+              "voltage": 220,
+              "current": 25,
+              "flowrate": 1000
+            },
+            {
+              "id": 2,
+              "date": "01/07/2018",
+              "voltage": 220,
+              "current": 25,
+              "flowrate": 990
+            },
+            {
+              "id": 3,
+              "date": "01/06/2018",
+              "voltage": 220,
+              "current": 25,
+              "flowrate": 900
+            },
+            {
+              "id": 4,
+              "date": "01/05/2018",
+              "voltage": 220,
+              "current": 25,
+              "flowrate": 1000
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "2B",
+          "voltage": 380,
+          "current": 25,
+          "flowrate": 2000,
+          "status": "active",
+          "history": [
+            {
+              "id": 1,
+              "date": "01/08/2018",
+              "voltage": 380,
+              "current": 25,
+              "flowrate": 1800
+            },
+            {
+              "id": 2,
+              "date": "01/07/2018",
+              "voltage": 380,
+              "current": 25,
+              "flowrate": 2000
+            },
+            {
+              "id": 3,
+              "date": "01/06/2018",
+              "voltage": 380,
+              "current": 25,
+              "flowrate": 2000
+            },
+            {
+              "id": 4,
+              "date": "01/05/2018",
+              "voltage": 380,
+              "current": 25,
+              "flowrate": 2000
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "3B",
+          "voltage": 220,
+          "current": 15,
+          "flowrate": 0,
+          "status": "inactive",
+          "history": [
+            {
+              "id": 1,
+              "date": "01/08/2018",
+              "voltage": 220,
+              "current": 15,
+              "flowrate": 1000
+            },
+            {
+              "id": 2,
+              "date": "01/07/2018",
+              "voltage": 220,
+              "current": 15,
+              "flowrate": 990
+            },
+            {
+              "id": 3,
+              "date": "01/06/2018",
+              "voltage": 220,
+              "current": 15,
+              "flowrate": 0
+            },
+            {
+              "id": 4,
+              "date": "01/05/2018",
+              "voltage": 220,
+              "current": 15,
+              "flowrate": 0
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "4C",
+          "voltage": 220,
+          "current": 25,
+          "flowrate": 0,
+          "status": "disable",
+          "history": [
+            {
+              "id": 1,
+              "date": "01/08/2018",
+              "voltage": 220,
+              "current": 25,
+              "flowrate": 1000
+            },
+            {
+              "id": 2,
+              "date": "01/07/2018",
+              "voltage": 220,
+              "current": 25,
+              "flowrate": 990
+            },
+            {
+              "id": 3,
+              "date": "01/06/2018",
+              "voltage": 220,
+              "current": 25,
+              "flowrate": 900
+            },
+            {
+              "id": 4,
+              "date": "01/05/2018",
+              "voltage": 220,
+              "current": 25,
+              "flowrate": 1000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Bonanza Bros"
+    },
+    {
+      "id": 3,
+      "name": "Street Fighter 3"
+    },
+    {
+      "id": 4,
+      "name": "Mortal Kombat 3"
+    }
+  ]
+}
